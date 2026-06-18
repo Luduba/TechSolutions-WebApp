@@ -16,22 +16,3 @@ A fully responsive, multi-page web application for **TechSolutions**, an IT cons
 | Contact | `contact.html` | Contact form with validation |
 
 
-##  Project Structure
-
-TechSolutions-WebApp/
-├── index.html # Home page
-├── about.html # About page
-├── services.html # Services page
-├── portfolio.html # Portfolio page
-├── blog.html # Blog page
-├── team.html # Team page
-├── faq.html # FAQ page
-├── contact.html # Contact page
-├── css/
-│ └── style.css # Custom CSS
-├── js/
-│ └── script.js # JavaScript
-├── assets/
-│ ├── images/ # All images
-│ └── icons/ # Icons and favicons
-└── README.md # Project documentation
