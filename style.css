@@ -155,3 +155,12 @@ body {
     transform: scale(1.05);
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 }
+
+/* Smooth link transitions */
+a {
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0d6efd;
+}
